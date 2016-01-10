@@ -1,0 +1,28 @@
+name: The Hand at Llanarmon
+favicon: null
+layout_spectrum: 0.06735355872660875
+typography_spectrum: 0.9307014024816453
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6008357023820281
+  lightness: 0.22751929168589413
+  saturation: 0.4311748032923788
+  rhythmicContrast: 0.7890378599986434
+purpose: []
