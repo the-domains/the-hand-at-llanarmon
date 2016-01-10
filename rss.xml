@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Welcome to The Hand at Llanarmon]]></title>
+        <description><![CDATA[Welcome to The Hand at Llanarmon]]></description>
+        <link>https://thegrid.ai/the-hand-at-llanarmon/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 15:26:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-hand-at-llanarmon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd74d2d4-ab12-4775-9895-719571668e58.jpg">]]></description>
+            <link>https://thegrid.ai/the-hand-at-llanarmon/459c6fee-31d8-4e47-bd87-b444acb6f0c6/index.html</link>
+            <guid isPermaLink="false">459c6fee-31d8-4e47-bd87-b444acb6f0c6</guid>
+            <pubDate>Sun, 10 Jan 2016 15:26:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
